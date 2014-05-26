@@ -1,5 +1,4 @@
 File1
 First line
 Second line
-<<<<<<< HEAD
 Thirds line
