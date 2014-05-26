@@ -1,3 +1,4 @@
 File1
 First line
 Second line
+Thirds
